@@ -2,26 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a17ed77-1193-4add-8043-abf4c138ee7a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/bj/index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css.jj.cn/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css.jj.cn/js/www/uer_loding_15.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/css.jj.cn/js/www/www.jj.cn_pub_15.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic01.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic02.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic03.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic04.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic05.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic06.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic07.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/coper_pic09.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/jj_game_icon_m3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/phone_4.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/download/dcss/jj_detail_pub.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/download/downloadSrc/stat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/ddzcode_ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/ddzcode_phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/ios_ddz_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/ipad_ddz_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/jjdt_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/jjdtqrcode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/mj_dw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/cms/image/m/mjj/xhddz_icon100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/images/newIndex/download/v2/download_but.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/images/newIndex/download/v2/go_but_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/images/newIndex/download/v2/ol_info_tit_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/images/newIndex/download/v2/tit_co_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/images/newIndex/v1/m2c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/wap/newwap/img/ddz_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/wap/newwap/img/ddzcode_ipad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/wap/newwap/img/ddzcode_phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/wap/newwap/img/djddz_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/wap/newwap/img/dzpk_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/wap/newwap/img/hlddz_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/wap/newwap/img/mj_code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/bottom_lip_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg_980.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg_980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg_980_new.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg_980_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg_new.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/dow_but_bg_new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_bg02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_bg02_980.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_bg_980.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_tow_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_tow_bg02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_tow_bg02_980.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/download_top_tow_bg_980.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/hot_nav_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/hot_nav_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/icon_ico1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/icon_ico2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/icon_ico3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/icon_ico4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_game_icon1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_game_icon2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_game_icon3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_game_icon5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_nav_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_nav_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/jj_nav_bg_980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/min_max_adap_aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/min_max_adap_aa02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/min_max_adap_aa02_980.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/min_max_adap_aa_980.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/old_down.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/old_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/ph_dow_but_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/ph_dow_but_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/ph_dow_but_bg_980.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/ph_dow_but_bg_980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/tv_ewm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/xiala_but_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/xiala_but_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/xiala_but_bg_hov.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/img1.jj.cn/www/www.jj.cn/xiala_but_bg_hov.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bj/download.html" afterPath="$PROJECT_DIR$/web/bj/download.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bj/download1.html" afterPath="$PROJECT_DIR$/web/bj/download1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bj/index.html" afterPath="$PROJECT_DIR$/web/bj/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/bj.css" afterPath="$PROJECT_DIR$/web/css/bj.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/download/download.htm" afterPath="$PROJECT_DIR$/web/download/download.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zmbj.iml" afterPath="$PROJECT_DIR$/zmbj.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,85 +89,44 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/bj/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-              <folding>
-                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#3;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#4;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#5;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#6;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#li#7;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="download1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/bj/download1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="168" selection-end-column="10" />
-              <folding>
-                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#2;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#span#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#span#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#span#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10402#10408#0" expanded="true" />
-                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="download.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/bj/download.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bj.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/bj.css">
+      <file leaf-file-name="download.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/download/download.htm">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="228" column="64" lean-forward="false" selection-start-line="228" selection-start-column="64" selection-end-line="228" selection-end-column="64" />
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/www.hidog.com/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="25" column="70" lean-forward="false" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/www.hidog.com/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,11 +152,11 @@
       <find>../jj/img1.cache.jj.cn</find>
       <find>JJ比赛</find>
       <find>斗地主</find>
-      <find>jj_%E6%96%97%E5%9C%B0%E4%B8%BB_files</find>
       <find>http://img1.jj.cn</find>
       <find>http://img1.jj.cn/www/jj_content</find>
       <find>http://img1.jj.cn/www</find>
       <find>http://img1.jj.cn/www/www.jj.cn</find>
+      <find>jj_%E6%96%97%E5%9C%B0%E4%B8%BB_files</find>
     </findStrings>
     <replaceStrings>
       <replace>../</replace>
@@ -155,6 +169,7 @@
       <replace>./dimg</replace>
       <replace>/img1.jj.cn</replace>
       <replace>/img1.jj.cn/www/www.jj.cn</replace>
+      <replace>downloadsrc</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -180,11 +195,15 @@
         <option value="$PROJECT_DIR$/web/bj/download1.html" />
         <option value="$PROJECT_DIR$/web/bj/index.htm" />
         <option value="$PROJECT_DIR$/web/download/dcss/jj_detail_pub.css" />
-        <option value="$PROJECT_DIR$/web/download/download.htm" />
-        <option value="$PROJECT_DIR$/web/css/bj.css" />
         <option value="$PROJECT_DIR$/web/bj/download.html" />
         <option value="$PROJECT_DIR$/src/test/test.java" />
+        <option value="$PROJECT_DIR$/web/css/bj.css" />
         <option value="$PROJECT_DIR$/web/bj/index.html" />
+        <option value="$PROJECT_DIR$/web/download/download.htm" />
+        <option value="$PROJECT_DIR$/src/servlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/servlet/DownloadServlet.java" />
+        <option value="$PROJECT_DIR$/web/www.hidog.com/index.html" />
       </list>
     </option>
   </component>
@@ -260,25 +279,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="download" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zmbj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zmbj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bj" />
+              <option name="myItemId" value="www.hidog.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,6 +297,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zmbj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zmbj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -308,23 +327,23 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../biji" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\js" />
-      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\download\dimg" />
-      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web" />
-      <recent name="E:\IDE_WorkSpace\IdeaProject\zmbj\web" />
-      <recent name="E:\IDE_WorkSpace\IdeaProject\zmbj\web\jj\www.jj.cn\download" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\codeimg" />
       <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\download\dcss" />
       <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web" />
       <recent name="E:\IDE_WorkSpace\IdeaProject\zmbj\web\css\downloadimg" />
       <recent name="E:\IDE_WorkSpace\IdeaProject\zmbj\web\css\downloadcss" />
-      <recent name="E:\IDE_WorkSpace\IdeaProject\zmbj\web\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web" />
+      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\images" />
+      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\download" />
+      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\js" />
+      <recent name="C:\Users\Administrator\IdeaProjects\zmbj\web\download\dimg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -742,6 +761,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6a17ed77-1193-4add-8043-abf4c138ee7a" name="Default" comment="" />
@@ -757,47 +779,48 @@
       <workItem from="1495609715949" duration="1687000" />
       <workItem from="1495612828043" duration="8016000" />
       <workItem from="1495676700523" duration="82000" />
-      <workItem from="1495677339130" duration="7706000" />
+      <workItem from="1495677339130" duration="14340000" />
+      <workItem from="1495705024229" duration="788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23800000" />
+    <option name="totallyTimeSpent" value="31222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11354167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.49156117" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.5084388" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -822,116 +845,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/images/ph_dow_but_bg.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/ph_dow_but_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/ph_dow_but_bg_980.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/tv_ewm.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/phone_4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/xiala_but_bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/xiala_but_bg.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/bjcp_icon.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/dow_but_bg.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/dow_but_bg_980.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/dow_but_bg_980.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len1_bb02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len1_bb02980.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len01towbg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len01towbg980.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len02.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len2_bb02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len2_bb02980.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len02towbg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len02towbg980.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len03.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/images/hot_img_len3_bb02.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1027,34 +940,110 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/download/download.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/images/jj_game_icon2.gif">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/web/bj/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/dow_but_bg.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/bjcp_icon.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/img1.jj.cn_old/www/www.jj.cn/dow_but_bg.gif" />
+    <entry file="file://$PROJECT_DIR$/web/css/bj.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="210" column="38" lean-forward="false" selection-start-line="210" selection-start-column="38" selection-end-line="210" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/ddzcode_phone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/ios_ddz_code.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/ipad_ddz_code.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/jjdt_code.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/jjdtqrcode.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/mj_dw.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/xhddz_icon100.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/codeimg/ddzcode_ipad.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/pub_footer_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len1_bb02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/dow_but_bg_980.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/images/hot_img_len1_bb02980.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -1064,41 +1053,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/bj.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="228" column="64" lean-forward="false" selection-start-line="228" selection-start-column="64" selection-end-line="228" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/bj/download.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/test.java">
+    <entry file="file://$PROJECT_DIR$/src/servlet.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/bj/download1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
+        <state relative-caret-position="468">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="168" selection-end-column="10" />
           <folding>
             <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -1119,10 +1085,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/servlet/DownloadServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="32" column="19" lean-forward="false" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/www.hidog.com/js/jquery-1.9.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/bj/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="260">
+          <caret line="158" column="25" lean-forward="false" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
           <folding>
             <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1143,6 +1125,43 @@
             <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/download/download.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/www.hidog.com/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/www.hidog.com/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="25" column="70" lean-forward="false" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>

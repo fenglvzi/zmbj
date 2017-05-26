@@ -208,7 +208,7 @@ em{ font-style:normal;}
 .min_980 .tv_cooper li a span,
 .min_980 .tv_cooper li a span img{ width: 74px; height: 74px;}
 
-.pub_footer{ background:url("../jj/img1.cache.jj.cn/images/newIndex/download/v2/pub_footer_bg.png") repeat-x top; text-align:center;color:#9e9e9e;  height:114px; font-size:14px;}
+.pub_footer{ background:url("../images/pub_footer_bg.png") repeat-x top; text-align:center;color:#9e9e9e;  height:114px; font-size:14px;}
 .pub_footer .pf_box{width:980px; margin:0 auto; position:relative;}
 .pub_footer a:hover{text-decoration:underline;}
 .pub_footer .n{ line-height:40px; padding-top:10px; }

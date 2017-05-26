@@ -1,0 +1,166 @@
+body{margin: 0px;padding: 0px; background-color: #f1f1f1;}
+
+*{
+    font-family: "Microsoft YaHei" ! important;
+}
+
+
+ul,li,a{ list-style-type: none; margin: 0px; padding: 0px;}
+a{text-decoration: none;}
+
+.hder{
+    margin: 0px auto;
+}
+.hder div{  height: 121px; width: 1920px;    background-repeat:no-repeat;}
+.hder .t1{     background-image: url("../img/bg_1.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_1.jpg*/;}
+.hder .t2{      background-image: url("../img/bg_2.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_2.jpg*/;}
+.hder .t3{    background-image: url("../img/bg_3.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_3.jpg*/;}
+.hder .t4{     background-image: url("../img/bg_4.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_4.jpg*/;}
+.hder .t5{   background-image: url("../img/bg_5.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_5.jpg*/;}
+
+
+
+
+.hder2-box{
+    width: 1200px;  margin: 0px auto; text-align: center;
+}
+.hder2{height:253px;width: 1200px;
+    background-image: url("../img/2.png")/*tpa=http://www.hidog.com/websrc/img/2.png*/;
+    background-repeat:no-repeat;
+    margin:30px auto 0px;
+    position: relative;
+}
+.hder2-a{
+    position: absolute;
+    top: 140px;
+    left: 138px;
+    width: 320px;
+    height: 75px;
+    background-image: url("../img/3.png")/*tpa=http://www.hidog.com/websrc/img/3.png*/;
+    background-repeat:no-repeat;
+}
+
+.hd-68{ height: 68px;}
+
+.hder2-tit{
+    padding:33px 0px 13px 0px;
+}
+
+.hd-title{
+    text-align: left;
+    padding-left: 10px;
+    border-left: 5px solid #19d0f9;
+    height: 22px;
+    line-height: 22px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3e3e3e;
+}
+
+.clare{ clear: both;}
+
+.hder2-ul{
+    overflow: hidden;
+}
+
+/**********************************************************************************************************************/
+.hder2-ul li._last{
+    width: 283px;
+    height: 262px;
+    background-image: url("../img/new.png")/*tpa=http://www.hidog.com/websrc/img/new.png*/;
+    background-repeat:no-repeat;
+}
+
+.hder2-ul li{
+    width: 283px;
+    height: 262px;
+    float: left;
+    margin: 0px 22px 22px 0px;
+    border-bottom: 5px solid #ccc;
+    background-color: #fff;
+}
+
+
+.hder2-ul li._right{
+    width: 283px;
+    height: 262px;
+    float: right;
+    margin: 0px;
+}
+
+
+/**********************************************************************************************************************/
+
+.ul_li_top{
+    width: 283px;
+    height: 124px;
+}
+.ud_283 img{
+    width: 283px;
+    height: 124px;
+}
+.ul_li_conter{
+    margin: 0px auto;
+    width: 283px;
+}
+.conter_left{
+    height: 112px;
+    width: 131px;
+    float: left;
+    padding: 15px 17px 11px 17px;
+}
+.conter_left_1{font-size: 18px; color: #3a3b3a; font-weight: bold;
+    text-align: left; height: 24px; line-height: 24px; }
+
+.conter_left_2{ height: 71px; line-height:20px; font-size: 13px; color: #abaca9;
+    text-align: left; padding: 0px;  }
+
+.conter_left_3{ height: 22px;  padding-bottom: 5px; }
+.conter_left_3 a{ width: 30px; height: 22px; display: inline-block; background-repeat: no-repeat;  margin: 0px 5px;}
+
+.conter_left_3 a.a1{ background-image:url("../img/android.png")/*tpa=http://www.hidog.com/websrc/img/android.png*/; }
+.conter_left_3 a.a2{ background-image:url("../img/apple.png")/*tpa=http://www.hidog.com/websrc/img/apple.png*/; }
+.conter_left_3 a.a3{ background-image:url("../img/pad.png")/*tpa=http://www.hidog.com/websrc/img/pad.png*/; }
+
+/**********************************************************************************************************************/
+
+.conter_right{
+    height: 138px;
+    width:118px;
+
+    float: right;
+    position: relative;
+}
+
+.conter_right img{
+  position: absolute;
+  left: 0px;
+  top: -10px;
+  width: 100px;
+  height: 100px;
+}
+.conter_right_1{ position: absolute;   font-weight: bold;  color: #000;
+    font-size: 14px; padding:0px;  bottom: 5px;left: -10px; right:5px;   }
+/**********************************************************************************************************************/
+
+
+.footer{ margin: 0px auto; background-color: #fff; text-align: center; line-height: 22px; padding: 20px 0px;}
+.footer div{ display: inline-block; margin: 0px 10px; color: #b8b8b6; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
