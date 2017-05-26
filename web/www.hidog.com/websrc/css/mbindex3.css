@@ -80,7 +80,7 @@ ul,li,a{ list-style-type: none; margin: 0px; padding: 0px;}
 }
 .ud_3 a{
     display: block;
-    background-image: url("../img/btn13.png")/*tpa=http://www.hidog.com/websrc/img/btn13.png*/;
+    background-image: url("../../../images/indeximages/btn13.png")/*tpa=http://www.hidog.com/websrc/img/btn13.png*/;
     background-repeat: no-repeat;
     width: 95px;
     height: 35px;

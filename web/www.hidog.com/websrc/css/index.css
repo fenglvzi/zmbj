@@ -1,7 +1,7 @@
 body{margin: 0px;padding: 0px; background-color: #f1f1f1;}
 
 *{
-    font-family: "Microsoft YaHei" ! important;
+    font-family: "Microsoft YaHei", serif ! important;
 }
 
 
@@ -36,7 +36,7 @@ a{text-decoration: none;}
     left: 138px;
     width: 320px;
     height: 75px;
-    background-image: url("../img/3.png")/*tpa=http://www.hidog.com/websrc/img/3.png*/;
+    background-image: url("../../../images/downimg/3.png")/*tpa=http://www.hidog.com/websrc/img/3.png*/;
     background-repeat:no-repeat;
 }
 
@@ -67,7 +67,7 @@ a{text-decoration: none;}
 .hder2-ul li._last{
     width: 283px;
     height: 262px;
-    background-image: url("../img/new.png")/*tpa=http://www.hidog.com/websrc/img/new.png*/;
+    background-image: url("../../../images/downimg/new.png")/*tpa=http://www.hidog.com/websrc/img/new.png*/;
     background-repeat:no-repeat;
 }
 
@@ -118,9 +118,9 @@ a{text-decoration: none;}
 .conter_left_3{ height: 22px;  padding-bottom: 5px; }
 .conter_left_3 a{ width: 30px; height: 22px; display: inline-block; background-repeat: no-repeat;  margin: 0px 5px;}
 
-.conter_left_3 a.a1{ background-image:url("../img/android.png")/*tpa=http://www.hidog.com/websrc/img/android.png*/; }
-.conter_left_3 a.a2{ background-image:url("../img/apple.png")/*tpa=http://www.hidog.com/websrc/img/apple.png*/; }
-.conter_left_3 a.a3{ background-image:url("../img/pad.png")/*tpa=http://www.hidog.com/websrc/img/pad.png*/; }
+.conter_left_3 a.a1{ background-image:url("../../../images/downimg/android.png")/*tpa=http://www.hidog.com/websrc/img/android.png*/; }
+.conter_left_3 a.a2{ background-image:url("../../../images/downimg/apple.png")/*tpa=http://www.hidog.com/websrc/img/apple.png*/; }
+.conter_left_3 a.a3{ background-image:url("../../../images/downimg/pad.png")/*tpa=http://www.hidog.com/websrc/img/pad.png*/; }
 
 /**********************************************************************************************************************/
 

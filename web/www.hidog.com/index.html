@@ -36,23 +36,102 @@
 
         browserRedirect();
     </script>
+    <link rel="stylesheet" href="shareapp/css/bj.css">
+    <script type="text/javascript">
+        function getQueryString(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+            var r = location.search.substr(1).match(reg);
+            if (r != null) {
+                return unescape(decodeURI(r[2]));
+            }
+            return null;
+        }
+        (function () {
+            try {
+                var showtype = getQueryString("showtype") || '';
+                if (showtype == 'pc') {
+                    return null;
+                }
+            } catch (e) {
+            }
+            if (/gt-p1000|iphone|android|phone|mobile|wap|netfront|java|operamobi|operamini|ucweb|windowsce|symbian|series|webos|sony|blackberry|dopod|nokia|samsung|palmsource|xda|pieplus|meizu|midp|cldc|motorola|foma|docomo|up.browser|up.link|blazer|helio|hosin|huawei|novarra|coolpad|webos|techfaith|palmsource|alcatel|amoi|ktouch|nexian|ericsson|philips|sagem|wellcom|bunjalloo|maui|smartphone|iemobile|spice|bird|zte-|longcos|pantech|gionee|portalmmm|jigbrowser|hiptop|benq|haier|^lct|320x320|240x320|176x220|mqqbrowser/i.test(navigator.userAgent.toLowerCase())) {
+                window.location.href = '';
+            }
+        })();
+    </script>
 </head>
 <body>
-  <div class="hder">
-      <div class="t1"></div>
-      <div class="t2"></div>
-      <div class="t3"></div>
-      <div class="t4"></div>
-      <div class="t5"></div>
-  </div>
+<div id="min_max_width">
+    <div class="jj_nav_hot" id="jj_nav_hot">
+        <div class="jj_nav_info">
+            <div class="min_max_adap">
+                <div class="logo" style=" display: none;"><a href="index.html"><img src="../images/headerimg/logo.png" alt="竹梦比鸡"
+                                                                                    title="竹梦比鸡"/></a></div>
+                <div class="symbol"><a href="index.html"><img src="../images/headerimg/jj_index_icon.png" alt="竹梦比鸡"
+                                                              title="竹梦比鸡"/></a></div>
+                <ul class="nav">
+                    <li class="hov"><a href="index.html"><span class="s1"></span>首 页</a></li>
+                    <li><a href="./download.html" target="_blank" title="竹梦比鸡下载中心"><span class="s2"></span>下载中心</a></li>
+                </ul>
+                <div class="dow">
+                    <div class="h_tit">
+                        <h1>竹梦比鸡大厅</h1>
+                        <span>弘扬棋牌文化、汇聚天下高手、享受竞技快乐</span>
+                    </div>
+                    <a class="dow_but" id="dow_but" href="#"></a>
+                    <!--****************************安桌手机下载*******************************************************-->
+                    <a class="ph_dow ph_dow1" id="but_wm2_and" href="#">
+                        <span></span>
+                        <h2>安卓手机</h2>
+                    </a>
+                    <!--****************************安桌手机下载*******************************************************-->
+
+                    <!--****************************苹果手机下载*******************************************************-->
+                    <a class="ph_dow ph_dow2" id="but_wm2_iph" href="#">
+                        <span></span>
+                        <h2>苹果手机</h2>
+                    </a>
+                    <!--****************************苹果手机下载*******************************************************-->
+                    <span class="wm2" id="wm2_and">
+                    <!--*******************************************中间的两个地方是重点区域，换成我们自己的二维码下载图片*******************************************************************-->
+                        <img alt="竹梦比鸡 安卓版" title="竹梦比鸡 安卓版" class="im"
+                             src="../images/erweima/jjdt_code.png"/>
+                    <span>安卓手机下载</span>
+                    </span>
+                    <span class="wm2" id="wm2_iph" style="left:-68px;">
+                        <img alt="竹梦比鸡 iPhone版" title="竹梦比鸡 iPhone版" class="im"
+                             src="../images/erweima/ios_ddz_code.png"/>
+                    <span>苹果手机下载</span>
+                        <!--************************************************中间的两个地方是重点区域，换成我们自己的二维码下载图片**************************************************************-->
+                    </span>
+                </div>
+                <ul class="hot_img_nav" id="hot_img_nav"></ul>
+            </div>
+        </div>
+        <div class="jj_hot_img" id="jj_hot_img">
+            <div class="hot_img" style="opacity:1;">
+                <div class="hot_img_len hot_img_len2">
+                    <div class="min_max_adap">
+                        <!--礼品中心-->
+                        <a class="aa" href="####" target="_blank"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="hot_img">
+                <div class="hot_img_len hot_img_len3">
+                    <div class="min_max_adap">
+                        <!--游戏展示页面-->
+                        <a class="aa" href="#" target="_blank"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
   <div class="hder2-box">
 
-      <div class="hder2">
-          <div class="hd-title">电脑端下载</div>
-          <a class="hder2-a" href="javascript:if(confirm('http://hp3h1.hidog.net/pc/app/哈狗游戏客户端版1.0.0.2.exe  \n\n���ļ��޷��� Teleport Ultra ����, ��Ϊ ����һ�����·���ⲿ������Ϊ������ʼ��ַ�ĵ�ַ��  \n\n�����ڷ������ϴ���?'))window.location='http://hp3h1.hidog.net/pc/app/哈狗游戏客户端版1.0.0.2.exe'" tppabs="http://hp3h1.hidog.net/pc/app/哈狗游戏客户端版1.0.0.2.exe"></a>
-      </div>
 
       <div class="hd-68">
           <div class="hder2-tit">
@@ -220,7 +299,7 @@
 
 <div class="footer">
     <div>
-        <img src="websrc/img/logo1.png" tppabs="http://www.hidog.com/websrc/img/logo1.png">
+        <img src="../images/indeximages/logo1.png" tppabs="http://www.hidog.com/websrc/img/logo1.png">
     </div>
     <div>
     COPYRIGHT ? 2015 Hi Dog. ALL RIGHTS RESERVED. <br/>
@@ -233,6 +312,142 @@
       window.open('aqzrs.html'/*tpa=http://www.hidog.com/aqzrs.html*/, 'newwindow', 'height=600,width=800,top=0,left=0,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no, status=no');
   }
 </SCRIPT>
+<script type="text/javascript">
+    var www_jj_cn_index = {
+        gat_id: function (id) {
+            return document.getElementById(id);
+        },
+        but_wm2: function (id, wm) {
+            id.onmouseover = function () {
+                clearTimeout(id.timer);
+                clearTimeout(id.timer2);
+                id.timer2 = setTimeout(function () {
+                    wm.style.display = "block";
+                }, 250);
+            }
+            id.onmouseout = function () {
+                clearTimeout(id.timer);
+                clearTimeout(id.timer2);
+                id.timer = setTimeout(function () {
+                    wm.style.display = "none";
+                }, 50);
+            }
+        },
+        but_wm2_fn: function () {
+            this.but_wm2(this.gat_id("but_wm2_and"), this.gat_id("wm2_and"));
+            this.but_wm2(this.gat_id("but_wm2_iph"), this.gat_id("wm2_iph"));
+            this.but_wm2(this.gat_id("but_wm2_ipad"), this.gat_id("wm2_ipad"));
+            this.but_wm2(this.gat_id("but_wm2_tv"), this.gat_id("wm2_tv"));
+        },
+        setStyle3: function (obj, name, value) {
+            var aCss3 = ['transform', 'transition', 'borderRadius', 'boxShadow', 'textShadow'];
+            if (aCss3.indexOf(name) != -1) {
+                obj.style['Webkit' + name.charAt(0).toUpperCase() + name.substring(1)] = value;
+                obj.style['Moz' + name.charAt(0).toUpperCase() + name.substring(1)] = value;
+                obj.style['ms' + name.charAt(0).toUpperCase() + name.substring(1)] = value;
+                obj.style['O' + name.charAt(0).toUpperCase() + name.substring(1)] = value;
+                obj.style[name] = value;
+            } else {
+                obj.style[name] = value;
+            }
+        },
+        is_max_width: true,
+        is_min_width: true,
+        min_max_width: function () {
+            if (document.getElementById('min_max_width')) {
+                var iWinWidth = document.documentElement.clientWidth || document.body.clientWidth;
+                var iWinHeight = document.documentElement.clientHeight || document.body.clientHeight;
+                var oBorWidth = document.getElementById('min_max_width');
+                if ((iWinWidth > 1200 || iWinHeight < 760) && this.is_max_width) {
+                    oBorWidth.className = 'max_1200';
+                    this.is_min_width = true;
+                    this.is_max_width = false;
+                }
+                if ((iWinWidth <= 1201 || iWinHeight <= 761) && this.is_min_width) {
+                    oBorWidth.className = 'min_980';
+                    this.is_max_width = true;
+                    this.is_min_width = false;
+                }
+            }
+        }
+    }
+    function www_jj_cn_index_lenbo() {
+        this.obj = null;
+        this.timerr = null;
+        this.now = 0;
+        this.index = 1;
+    }
+    www_jj_cn_index_lenbo.prototype = {
+        init: function (nav, bjimg, jjnavhot) {
+            var _this = this;
+            this.outImgUl = document.getElementById(nav);
+            this.imgChildren = this.outImgUl.children;
+            this.obj = document.getElementById(bjimg);
+            this.jjnavhot = document.getElementById(jjnavhot);
+            this.aImg = this.obj.children;
+            this.len = this.aImg.length;
+            for (var i = 0; i < this.len; i++) {
+                var oLi = document.createElement('li');
+                oLi.index = i;
+                oLi.onclick = function () {
+                    _this.now = this.index;
+                    _this.tab_but();
+                }
+                this.outImgUl.appendChild(oLi);
+            }
+            this.imgChildren[this.now].className = "hov";
+            this.aImg[this.now].style.zIndex = this.index;
+            this.aImg[this.now].style.opacity = '1';
+            this.slider();
+        },
+        slider: function () {
+            var _this = this;
+            this.timerr = setInterval(function () {
+                _this.now++;
+                _this.tab();
+            }, 5000);
+        },
+        tab: function () {
+            ++this.index
+            if (this.now == -1) {
+                this.now = this.len - 1;
+            }
+            ;
+            if (this.now == this.len) {
+                this.now = 0;
+            }
+            ;
+            this.tab_but();
+        },
+        tab_but: function () {
+            for (var i = 0; i < this.len; i++) {
+                this.imgChildren[i].className = ""
+                this.aImg[i].style.opacity = '0';
+                this.aImg[i].style.zIndex = '0';
+            }
+            this.aImg[this.now].style.zIndex = this.index;
+            this.aImg[this.now].style.opacity = '1';
+            this.imgChildren[this.now].className = "hov"
+        }
+    }
+    var index_lenbo = new www_jj_cn_index_lenbo();
+    index_lenbo.init("hot_img_nav", "jj_hot_img", "jj_nav_hot")
+    www_jj_cn_index.but_wm2_fn();
+    www_jj_cn_index.min_max_width();
+    window.onresize = function () {
+        www_jj_cn_index.min_max_width();
+    };
+
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "../hm.baidu.com/hm.js-42b4e6239bcfa35f8f12a3d820c6fb4b"/*tpa=https://hm.baidu.com/hm.js?42b4e6239bcfa35f8f12a3d820c6fb4b*/;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
 </body>
 </html>
 
