@@ -5,20 +5,20 @@
  * Created by Administrator on 2016/5/4.
  */
 
-var dowurl="../../index.htm"/*tpa=http://www.hidog.com/*/;
+var dowurl="../../index.html"/*tpa=http://www.hidog.com/*/;
 
 var _shopname=["",
-"º¼ÅÆ3ºÏ1",
-"Ì¨ÖÝ3È±1",
-"ÉÜÐË3È±1",
-"3È±1ÒåÎÚ°æ",
-"ºþÖÝ3È±1",
-"3È±1ÕãÖÐ°æ",
-"ÎÂÖÝ3È±1",
-"ÖÛÉ½3È±1"
+"ï¿½ï¿½ï¿½ï¿½3ï¿½ï¿½1",
+"Ì¨ï¿½ï¿½3È±1",
+"ï¿½ï¿½ï¿½ï¿½3È±1",
+"3È±1ï¿½ï¿½ï¿½Ú°ï¿½",
+"ï¿½ï¿½ï¿½ï¿½3È±1",
+"3È±1ï¿½ï¿½ï¿½Ð°ï¿½",
+"ï¿½ï¿½ï¿½ï¿½3È±1",
+"ï¿½ï¿½É½3È±1"
 ];
 
-//Î¢ÐÅÌø×ª  android ºÍ iphone Ë÷Òý=shopid ´Ó 1 ¿ªÊ¼
+//Î¢ï¿½ï¿½ï¿½ï¿½×ª  android ï¿½ï¿½ iphone ï¿½ï¿½ï¿½ï¿½=shopid ï¿½ï¿½ 1 ï¿½ï¿½Ê¼
 var wxappid=["",
 "wx818fe7f28d11a068",
 "wx7267d1424c452a5d",
@@ -30,7 +30,7 @@ var wxappid=["",
 "wx4e16b27b521b4037"
 ];
 
-//Î¢ÐÅÌø×ª ipad Ë÷Òý=shopid ´Ó 1 ¿ªÊ¼ ½öÓÃÓÚ ipad
+//Î¢ï¿½ï¿½ï¿½ï¿½×ª ipad ï¿½ï¿½ï¿½ï¿½=shopid ï¿½ï¿½ 1 ï¿½ï¿½Ê¼ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ipad
 var wxappid_ipad=["",
 "wx818fe7f28d11a068",
 "wx7267d1424c452a5d",
@@ -41,7 +41,7 @@ var wxappid_ipad=["",
 "wxd13afadf476fe529",
 "wx4e16b27b521b4037"
 ];
-//iphoneµÄÏÂÔØ
+//iphoneï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 var iosappid=["",
 "id1001411255",
 "id1106389145",
@@ -52,7 +52,7 @@ var iosappid=["",
 "id1218705455",
 "id1226906034"
 ];
-//ipadµÄÏÂÔØ
+//ipadï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 var iosappid_ipad=["",
 "id1031178686",
 "id1133856111",
@@ -63,7 +63,7 @@ var iosappid_ipad=["",
 "id1218714154",
 "id1226906042"
 ];
-//andoridµÄÏÂÔØ
+//andoridï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 var androidapkurl=["",
 "http://hp3h1.hidog.net/app/1/hp3h1.3033.3.1.apk",
 "http://hp3h1.hidog.net/app/2/tz3q1.1025.3.0.1.apk",
@@ -91,20 +91,20 @@ function GetPage(){
 
 //======================================================================================================================
 //page
-//1: Èë×À ºìÉ«Í¼Æ¬ invitegame.html
-//2£ºÏÂÔØ »ò ´ò¿ª °×É«Í¼Æ¬ startgame.html
+//1: ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½É«Í¼Æ¬ invitegame.html
+//2ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½É«Í¼Æ¬ startgame.html
 function loadHtml(plat){
     var _img="";
     var shopid=GetShopID();
     var page=GetPage();
     if(!shopid){
-        //alert("shopid²»Ã÷È·");
+        //alert("shopidï¿½ï¿½ï¿½ï¿½È·");
         document.location=dowurl;
         return 0;
     }
 
     if(!page){
-        //alert("page²»Ã÷È·");
+        //alert("pageï¿½ï¿½ï¿½ï¿½È·");
         document.location=dowurl;
         return 0;
     }
@@ -154,19 +154,19 @@ function getApkUrl(){
     return url;
 }
 
-//·ÃÎÊµØÖ·
+//ï¿½ï¿½ï¿½Êµï¿½Ö·
 //http://localhost:63342/hagou/invitegame.html?page=2&shopid=1&hp3h1param=1112969.35344.59.2
 function loadHtml_pc(){
     var _img="";
     var shopid=GetShopID();
     var platfrom= jQuery.fn.MyGetUrlParameter("platfrom"); //1=android 2=iPhone 3=pc 4=iPad
     if(!shopid){
-        //alert("shopid²»Ã÷È·");
+        //alert("shopidï¿½ï¿½ï¿½ï¿½È·");
         document.location=dowurl;
         return 0;
     }
     if(!platfrom){
-        //alert("platfrom²»Ã÷È·");
+        //alert("platfromï¿½ï¿½ï¿½ï¿½È·");
         document.location=dowurl;
         return 0;
     }
@@ -193,7 +193,7 @@ function loadHtml_pc(){
 $(function(){
      orient();
     //getw();
-    var _title="¹þ¹·"+_shopname[_SHOPID]+"£¬Òª´ò±¾µØÂé½«¡¢ÆË¿Ë£¬ÉÏ¹þ¹·ÓÎÏ·£¡";
+    var _title="ï¿½ï¿½ï¿½ï¿½"+_shopname[_SHOPID]+"ï¿½ï¿½Òªï¿½ò±¾µï¿½ï¿½é½«ï¿½ï¿½ï¿½Ë¿Ë£ï¿½ï¿½Ï¹ï¿½ï¿½ï¿½ï¿½ï¿½Ï·ï¿½ï¿½";
     $("#_title").text(_title);
 });
 

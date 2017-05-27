@@ -1,0 +1,1 @@
+!function(e){var n=e.document,t=n.documentElement,i=7.2,o="orientationchange"in e?"orientationchange":"resize",a=function(){var e=t.clientWidth||320;e>720&&(e=720),t.style.fontSize=e/i+"px"},d=e.jjmatch=e.jjmatch||{};a(),d.iphone_rem=a,n.addEventListener&&(e.addEventListener(o,a,!1),n.addEventListener("DOMContentLoaded",a,!1))}(window);

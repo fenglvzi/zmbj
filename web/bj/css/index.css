@@ -12,32 +12,23 @@ a{text-decoration: none;}
     margin: 0px auto;
 }
 .hder div{  height: 121px; width: 1920px;    background-repeat:no-repeat;}
-.hder .t1{     background-image: url("../img/bg_1.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_1.jpg*/;}
-.hder .t2{      background-image: url("../img/bg_2.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_2.jpg*/;}
-.hder .t3{    background-image: url("../img/bg_3.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_3.jpg*/;}
-.hder .t4{     background-image: url("../img/bg_4.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_4.jpg*/;}
-.hder .t5{   background-image: url("../img/bg_5.jpg")/*tpa=http://www.hidog.com/websrc/img/bg_5.jpg*/;}
-
-
-
+.hder .t1{     background-image: url("../img/bg_1.jpg");}
+.hder .t2{      background-image: url("../img/bg_2.jpg");}
+.hder .t3{    background-image: url("../img/bg_3.jpg");}
+.hder .t4{     background-image: url("../img/bg_4.jpg");}
+.hder .t5{   background-image: url("../img/bg_5.jpg");}
 
 .hder2-box{
     width: 1200px;  margin: 0px auto; text-align: center;
 }
-.hder2{height:253px;width: 1200px;
-    background-image: url("../img/2.png")/*tpa=http://www.hidog.com/websrc/img/2.png*/;
-    background-repeat:no-repeat;
-    margin:30px auto 0px;
-    position: relative;
-}
+
 .hder2-a{
     position: absolute;
     top: 140px;
     left: 138px;
     width: 320px;
     height: 75px;
-    background-image: url("../../images/downimg/3.png")/*tpa=http://www.hidog.com/websrc/img/3.png*/;
-    background-repeat:no-repeat;
+    background: url("../../images/downimg/3.png") no-repeat;
 }
 
 .hd-68{ height: 68px;}
@@ -67,7 +58,7 @@ a{text-decoration: none;}
 .hder2-ul li._last{
     width: 283px;
     height: 262px;
-    background-image: url("../../images/downimg/new.png")/*tpa=http://www.hidog.com/websrc/img/new.png*/;
+    background-image: url("../../images/downimg/new.png");
     background-repeat:no-repeat;
 }
 
@@ -118,9 +109,9 @@ a{text-decoration: none;}
 .conter_left_3{ height: 22px;  padding-bottom: 5px; }
 .conter_left_3 a{ width: 30px; height: 22px; display: inline-block; background-repeat: no-repeat;  margin: 0px 5px;}
 
-.conter_left_3 a.a1{ background-image:url("../../images/downimg/android.png")/*tpa=http://www.hidog.com/websrc/img/android.png*/; }
-.conter_left_3 a.a2{ background-image:url("../../images/downimg/apple.png")/*tpa=http://www.hidog.com/websrc/img/apple.png*/; }
-.conter_left_3 a.a3{ background-image:url("../../images/downimg/pad.png")/*tpa=http://www.hidog.com/websrc/img/pad.png*/; }
+.conter_left_3 a.a1{ background-image:url("../../images/downimg/android.png"); }
+.conter_left_3 a.a2{ background-image:url("../../images/downimg/apple.png"); }
+.conter_left_3 a.a3{ background-image:url("../../images/downimg/pad.png"); }
 
 /**********************************************************************************************************************/
 

@@ -1,65 +1,66 @@
+
+
 <!doctype html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <title>杭州哈狗网络科技有限公司</title>
-    <meta name="keywords" content="哈狗游戏,杭州牌3合1,杭牌三合一,杭州麻将,三扣一,哈币,银锭,杭州哈狗网络科技有限公司" />
-    <meta name="description" content="哈狗游戏,杭州牌3合1,杭牌三合一,杭州麻将,三扣一,哈币,银锭,杭州哈狗网络科技有限公司" />
-    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <link rel="stylesheet" href="css/index.css" tppabs="http://www.hidog.com/websrc/css/index.css">
-    <script type="text/javascript" src="js/jquery-1.9.1.min.js" tppabs="http://www.hidog.com/js/jquery-1.9.1.min.js"></script>
-    <script type="text/javascript">
- 
-        function browserRedirect() {
-            var sUserAgent = navigator.userAgent.toLowerCase();
-            var bIsIpad = sUserAgent.match(/ipad/i) === "ipad";
-            var bIsIphoneOs = sUserAgent.match(/iphone os/i) === "iphone os";
-            var bIsMidp = sUserAgent.match(/midp/i) === "midp";
-            var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) === "rv:1.2.3.4";
-            var bIsUc = sUserAgent.match(/ucweb/i) === "ucweb";
-            var bIsAndroid = sUserAgent.match(/android/i) === "android";
-            var bIsCE = sUserAgent.match(/windows ce/i) === "windows ce";
-            var bIsWM = sUserAgent.match(/windows mobile/i) === "windows mobile";
-            //document.writeln("您的浏览设备为：");
-            if (bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
-                //document.writeln("phone");
-                location.href = "nwap/down.html"/*tpa=http://www.hidog.com/nwap/down.html*/;
-            } else if (bIsIpad) {
+<head><meta http-equiv=Content-Type content='text/html; charset=UTF-8'>
 
-            }
-            else {
-                //document.writeln("pc");
-            }
-        }
+    <head>
+        <title>
+        竹梦游戏
+    </title>
+        <meta name="keywords" content="安徽竹梦,比鸡,十三张,十三水,棋牌,手游,游戏,约牌,好友房,微信登录" />
+        <meta name="description" content="安徽竹梦,比鸡,十三张,十三水,棋牌,手游,游戏,约牌,好友房,微信登录" />
+        <link rel="stylesheet" href="./css/index.css"  />
+        <script type="text/javascript" src="./js/jquery-1.9.1.min.js" ></script>
+        <!--下面的判断是电脑端还是手机端-->
+        <script type="text/javascript">
+            function browserRedirect() {
+                var sUserAgent = navigator.userAgent.toLowerCase();
+                var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+                var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+                var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+                var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+                var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+                var bIsAndroid = sUserAgent.match(/android/i) == "android";
+                var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+                var bIsWM = sUserAgent.match(/windows mobile/i) ==
+                if (bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+                    //document.writeln("phone");
+                    //如果是手机 ，直接跳到下载界面
+                    location.href = "./nwap/download.html";
+                } else if (bIsIpad) {
 
-        browserRedirect();
-    </script>
-    <link rel="stylesheet" href="shareapp/css/bj.css">
-    <script type="text/javascript">
-        function getQueryString(name) {
-            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
-            var r = location.search.substr(1).match(reg);
-            if (r != null) {
-                return unescape(decodeURI(r[2]));
-            }
-            return null;
-        }
-        (function () {
-            try {
-                var showtype = getQueryString("showtype") || '';
-                if (showtype == 'pc') {
-                    return null;
                 }
-            } catch (e) {
+                else {
+                    //document.writeln("pc");
+                }
             }
-            if (/gt-p1000|iphone|android|phone|mobile|wap|netfront|java|operamobi|operamini|ucweb|windowsce|symbian|series|webos|sony|blackberry|dopod|nokia|samsung|palmsource|xda|pieplus|meizu|midp|cldc|motorola|foma|docomo|up.browser|up.link|blazer|helio|hosin|huawei|novarra|coolpad|webos|techfaith|palmsource|alcatel|amoi|ktouch|nexian|ericsson|philips|sagem|wellcom|bunjalloo|maui|smartphone|iemobile|spice|bird|zte-|longcos|pantech|gionee|portalmmm|jigbrowser|hiptop|benq|haier|^lct|320x320|240x320|176x220|mqqbrowser/i.test(navigator.userAgent.toLowerCase())) {
-                window.location.href = '';
+            browserRedirect();
+        </script>
+        <link rel="stylesheet" href="./css/bj.css">
+        <script type="text/javascript">
+            function getQueryString(name) {
+                var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+                var r = location.search.substr(1).match(reg);
+                if (r != null) {
+                    return unescape(decodeURI(r[2]));
+                }
+                return null;
             }
-        })();
-    </script>
-</head>
+            (function () {
+                try {
+                    var showtype = getQueryString("showtype") || '';
+                    if (showtype == 'pc') {
+                        return null;
+                    }
+                } catch (e) {
+                }
+                if (/gt-p1000|iphone|android|phone|mobile|wap|netfront|java|operamobi|operamini|ucweb|windowsce|symbian|series|webos|sony|blackberry|dopod|nokia|samsung|palmsource|xda|pieplus|meizu|midp|cldc|motorola|foma|docomo|up.browser|up.link|blazer|helio|hosin|huawei|novarra|coolpad|webos|techfaith|palmsource|alcatel|amoi|ktouch|nexian|ericsson|philips|sagem|wellcom|bunjalloo|maui|smartphone|iemobile|spice|bird|zte-|longcos|pantech|gionee|portalmmm|jigbrowser|hiptop|benq|haier|^lct|320x320|240x320|176x220|mqqbrowser/i.test(navigator.userAgent.toLowerCase())) {
+                    window.location.href = '';
+                }
+            })();
+        </script>
+    </head>
 <body>
 <div id="min_max_width">
     <div class="jj_nav_hot" id="jj_nav_hot">
@@ -71,11 +72,11 @@
                                                               title="竹梦比鸡"/></a></div>
                 <ul class="nav">
                     <li class="hov"><a href="index.html"><span class="s1"></span>首 页</a></li>
-                    <li><a href="./download.html" target="_blank" title="竹梦比鸡下载中心"><span class="s2"></span>下载中心</a></li>
+                    <li><a href="./download.html" target="_blank" title="竹梦游戏下载中心"><span class="s2"></span>下载中心</a></li>
                 </ul>
                 <div class="dow">
                     <div class="h_tit">
-                        <h1>竹梦比鸡大厅</h1>
+                        <h1>竹梦游戏大厅</h1>
                         <span>弘扬棋牌文化、汇聚天下高手、享受竞技快乐</span>
                     </div>
                     <a class="dow_but" id="dow_but" href="#"></a>
@@ -98,7 +99,7 @@
                              src="../images/erweima/jjdt_code.png"/>
                     <span>安卓手机下载</span>
                     </span>
-                    <span class="wm2" id="wm2_iph" style="left:-68px;">
+                    <span class="wm2" id="wm2_iph" style="left: -5px;">
                         <img alt="竹梦比鸡 iPhone版" title="竹梦比鸡 iPhone版" class="im"
                              src="../images/erweima/ios_ddz_code.png"/>
                     <span>苹果手机下载</span>
@@ -113,7 +114,7 @@
                 <div class="hot_img_len hot_img_len2">
                     <div class="min_max_adap">
                         <!--礼品中心-->
-                        <a class="aa" href="####" target="_blank"></a>
+                        <a class="aa" href="#" ></a>
                     </div>
                 </div>
             </div>
@@ -121,7 +122,7 @@
                 <div class="hot_img_len hot_img_len3">
                     <div class="min_max_adap">
                         <!--游戏展示页面-->
-                        <a class="aa" href="#" target="_blank"></a>
+                        <a class="aa" href="#"></a>
                     </div>
                 </div>
             </div>
@@ -129,188 +130,90 @@
     </div>
 </div>
 
+<div class="hder2-box">
 
-  <div class="hder2-box">
+    <div class="hd-68">
+        <div class="hder2-tit">
+            <div class="hd-title">移动端下载</div>
+        </div>
+    </div>
 
+    <ul class="hder2-ul">
 
-      <div class="hd-68">
-          <div class="hder2-tit">
-              <div class="hd-title">移动端下载</div>
-          </div>
-      </div>
-
-       <ul class="hder2-ul">
-
-             <li>
-                 <div class="ul_li_top"> <img src="websrc/pimg/hangzhou.jpg" tppabs="http://www.hidog.com/websrc/pimg/hangzhou.jpg" ></div>
-                 <div class="ul_li_conter">
-                      <div class="conter_left">
-                          <div class="conter_left_1">哈狗杭牌3合1</div>
-                          <div class="conter_left_2">哈狗游戏倾力打造的杭城本土化熟人社交的休闲棋牌游戏。</div>
-                          <div class="conter_left_3"  style="display:none">
-                              <a href="shareapp/invitegame.html-shopid=1&page=2&platfrom=1.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=1&page=2&platfrom=1" class="a1"></a>
-                              <a href="shareapp/invitegame.html-shopid=1&page=2&platfrom=2.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=1&page=2&platfrom=2" class="a2"></a>
-                              <a href="#" class="a3"></a>
-                          </div>
-                      </div>
-                      <div class="conter_right" style="display:none">
-                          <img src="websrc/pimg/erweima_hangzhou.png" tppabs="http://www.hidog.com/websrc/pimg/erweima_hangzhou.png" /> <br />
-                          <div class="conter_right_1">手机扫描二维码下载游戏</div>
-                      </div>
-                 </div>
-             </li>
-
-
-
-
-           <li>
-               <div class="ul_li_top"> <img src="websrc/pimg/taizhou.jpg" tppabs="http://www.hidog.com/websrc/pimg/taizhou.jpg" ></div>
-               <div class="ul_li_conter">
-                   <div class="conter_left">
-                       <div class="conter_left_1">哈狗台州3缺1</div>
-                       <div class="conter_left_2">亲朋好友约牌再也无需出门，在家无聊想结识麻友牌友一起出去玩。</div>
-                       <div class="conter_left_3" style="display:none">
-                           <a href="shareapp/invitegame.html-shopid=2&page=2&platfrom=1.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=2&page=2&platfrom=1" class="a1"></a>
-                           <a href="shareapp/invitegame.html-shopid=2&page=2&platfrom=2.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=2&page=2&platfrom=2" class="a2"></a>
-                           <a href="#" class="a3"></a>
-                       </div>
-                   </div>
-                   <div class="conter_right"  style="display:none">
-                       <img src="websrc/pimg/erweima_taizhou.png" tppabs="http://www.hidog.com/websrc/pimg/erweima_taizhou.png" /> <br />
-                       <div class="conter_right_1">手机扫描二维码下载游戏</div>
-                   </div>
-               </div>
-           </li>
-
-
-           <li>
-               <div class="ul_li_top"> <img src="websrc/pimg/shaoxing.png" tppabs="http://www.hidog.com/websrc/pimg/shaoxing.png" ></div>
-               <div class="ul_li_conter">
-                   <div class="conter_left">
-                       <div class="conter_left_1">哈狗绍兴3缺1</div>
-                       <div class="conter_left_2">哈狗游戏着力打造线上绍兴麻将、包红星、双扣的游戏乐趣。</div>
-                       <div class="conter_left_3"  style="display:none">
-                           <a href="shareapp/invitegame.html-shopid=3&page=2&platfrom=1.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=3&page=2&platfrom=1" class="a1"></a>
-                           <a href="shareapp/invitegame.html-shopid=3&page=2&platfrom=2.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=3&page=2&platfrom=2" class="a2"></a>
-                           <a href="#" class="a3"></a>
-                       </div>
-                   </div>
-                   <div class="conter_right"  style="display:none">
-                       <img src="websrc/pimg/erweima_shaoxing.png" tppabs="http://www.hidog.com/websrc/pimg/erweima_shaoxing.png" /> <br />
-                       <div class="conter_right_1">手机扫描二维码下载游戏</div>
-                   </div>
-               </div>
-           </li>
-
-
-           <li class="_right">
-               <div class="ul_li_top"> <img src="websrc/pimg/yiwu.png" tppabs="http://www.hidog.com/websrc/pimg/yiwu.png" ></div>
-               <div class="ul_li_conter">
-                   <div class="conter_left">
-                       <div class="conter_left_1">哈狗3缺1义乌版</div>
-                       <div class="conter_left_2">哈狗游戏着力打造义乌人的线上棋牌室，在家就能享受打牌乐趣。</div>
-                       <div class="conter_left_3"  style="display:none">
-                           <a href="shareapp/invitegame.html-shopid=4&page=2&platfrom=1.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=4&page=2&platfrom=1" class="a1"></a>
-                           <a href="shareapp/invitegame.html-shopid=4&page=2&platfrom=2.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=4&page=2&platfrom=2" class="a2"></a>
-                           <a href="#" class="a3"></a>
-                       </div>
-                   </div>
-                   <div class="conter_right"  style="display:none">
-                       <img src="websrc/pimg/erweima_yiwu.png" tppabs="http://www.hidog.com/websrc/pimg/erweima_yiwu.png" /> <br />
-                       <div class="conter_right_1">手机扫描二维码下载游戏</div>
-                   </div>
-               </div>
-           </li>
-
-
-           <li>
-               <div class="ul_li_top"> <img src="websrc/pimg/huzhou.png" tppabs="http://www.hidog.com/websrc/pimg/huzhou.png" ></div>
-               <div class="ul_li_conter">
-                   <div class="conter_left">
-                       <div class="conter_left_1">哈狗湖州3缺1</div>
-                       <div class="conter_left_2">湖州人茶余饭后喜欢在棋牌室喝茶搓麻将，打老K。</div>
-                       <div class="conter_left_3"  style="display:none">
-                           <a href="shareapp/invitegame.html-shopid=5&page=2&platfrom=1.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=5&page=2&platfrom=1" class="a1"></a>
-                           <a href="shareapp/invitegame.html-shopid=5&page=2&platfrom=2.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=5&page=2&platfrom=2" class="a2"></a>
-                           <a href="#" class="a3"></a>
-                       </div>
-                   </div>
-                   <div class="conter_right"  style="display:none">
-                       <img src="websrc/pimg/erweima_huzhou.png" tppabs="http://www.hidog.com/websrc/pimg/erweima_huzhou.png" /> <br />
-                       <div class="conter_right_1">手机扫描二维码下载游戏</div>
-                   </div>
-               </div>
-           </li>
-
-
-           <li>
-               <div class="ul_li_top"> <img src="websrc/pimg/zhehzong.jpg" tppabs="http://www.hidog.com/websrc/pimg/zhehzong.jpg" ></div>
-               <div class="ul_li_conter">
-                   <div class="conter_left">
-                       <div class="conter_left_1">哈狗3缺1浙中版</div>
-                       <div class="conter_left_2">哈狗游戏着力打造浙中版的线上棋牌室，享受打牌的乐趣。</div>
-                       <div class="conter_left_3"  style="display:none">
-                           <a href="shareapp/invitegame.html-shopid=6&page=2&platfrom=1.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=6&page=2&platfrom=1" class="a1"></a>
-                           <a href="shareapp/invitegame.html-shopid=6&page=2&platfrom=2.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=6&page=2&platfrom=2" class="a2"></a>
-                           <a href="#" class="a3"></a>
-                       </div>
-                   </div>
-                   <div class="conter_right"  style="display:none">
-                       <img src="websrc/pimg/erweima_zhehzong.png" tppabs="http://www.hidog.com/websrc/pimg/erweima_zhehzong.png" /> <br />
-                       <div class="conter_right_1">手机扫描二维码下载游戏</div>
-                   </div>
-               </div>
-           </li>
-
-
-           <li>
-               <div class="ul_li_top"> <img src="websrc/pimg/wenzhou.jpg" tppabs="http://www.hidog.com/websrc/pimg/wenzhou.jpg" ></div>
-               <div class="ul_li_conter">
-                   <div class="conter_left">
-                       <div class="conter_left_1">哈狗温州3缺1</div>
-                       <div class="conter_left_2">哈狗游戏着力打造温州版的线上棋牌室，享受打牌的乐趣。</div>
-                       <div class="conter_left_3"  style="display:none">
-                           <a href="shareapp/invitegame.html-shopid=7&page=2&platfrom=1.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=7&page=2&platfrom=1" class="a1"></a>
-                           <a href="shareapp/invitegame.html-shopid=7&page=2&platfrom=2.htm" tppabs="http://www.hidog.com/shareapp/invitegame.html?shopid=7&page=2&platfrom=2" class="a2"></a>
-                           <a href="#" class="a3"></a>
-                       </div>
-                   </div>
-                   <div class="conter_right"  style="display:none">
-                       <img src="websrc/pimg/erweima_wenzhou.png" tppabs="http://www.hidog.com/websrc/pimg/erweima_wenzhou.png" /> <br />
-                       <div class="conter_right_1">手机扫描二维码下载游戏</div>
-                   </div>
-               </div>
-           </li>
-
-
-           <li class="_last _right">
-
-           </li>
-
-
-
-
-              <div class="clare"></div>
-          </ul>
-
-
-  </div>
-
-
+        <li>
+            <div class="ul_li_top"> <img src="../images/pimg/hangzhou.jpg"  ></div>
+            <div class="ul_li_conter">
+                <div class="conter_left">
+                    <div class="conter_left_1">竹梦比鸡</div>
+                    <div class="conter_left_2">竹梦科技倾力打造本土化熟人社交的休闲棋牌游戏。</div>
+                    <div class="conter_left_3">
+                        <a href="shareapp/invitegame.html-shopid=1&page=2&platfrom=1.htm"  class="a1"></a>
+                        <a href="shareapp/invitegame.html-shopid=1&page=2&platfrom=2.htm"  class="a2"></a>
+                        <a href="#" class="a3"></a>
+                    </div>
+                </div>
+                <div class="conter_right">
+                    <img src="../images/pimg/erweima_hangzhou.png"  /> <br />
+                    <div class="conter_right_1">手机扫描二维码下载游戏</div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="ul_li_top"> <img src="../images/pimg/hangzhou.jpg"  ></div>
+            <div class="ul_li_conter">
+                <div class="conter_left">
+                    <div class="conter_left_1">竹梦比鸡</div>
+                    <div class="conter_left_2">竹梦科技倾力打造本土化熟人社交的休闲棋牌游戏。</div>
+                    <div class="conter_left_3">
+                        <a href="./shareapp/invitegame.html-shopid=1&page=2&platfrom=1.htm"  class="a1"></a>
+                        <a href="./shareapp/invitegame.html-shopid=1&page=2&platfrom=2.htm"  class="a2"></a>
+                        <a href="#" class="a3"></a>
+                    </div>
+                </div>
+                <div class="conter_right">
+                    <img src="../images/pimg/erweima_hangzhou.png"  /> <br />
+                    <div class="conter_right_1">手机扫描二维码下载游戏</div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="ul_li_top"> <img src="../images/pimg/hangzhou.jpg"  ></div>
+            <div class="ul_li_conter">
+                <div class="conter_left">
+                    <div class="conter_left_1">竹梦比鸡</div>
+                    <div class="conter_left_2">竹梦科技倾力打造本土化熟人社交的休闲棋牌游戏。</div>
+                    <div class="conter_left_3">
+                        <a href="shareapp/invitegame.html-shopid=1&page=2&platfrom=1.htm"  class="a1"></a>
+                        <a href="shareapp/invitegame.html-shopid=1&page=2&platfrom=2.htm"  class="a2"></a>
+                        <a href="#" class="a3"></a>
+                    </div>
+                </div>
+                <div class="conter_right">
+                    <img src="../images/pimg/erweima_hangzhou.png"  /> <br />
+                    <div class="conter_right_1">手机扫描二维码下载游戏</div>
+                </div>
+            </div>
+        </li>
+        <li class="_last _right">
+        </li>
+        <div class="clare"></div>
+    </ul>
+</div>
 <div class="footer">
     <div>
-        <img src="../images/indeximages/logo1.png" tppabs="http://www.hidog.com/websrc/img/logo1.png">
+        <img src="../images/downimg/logo1.png" >
     </div>
     <div>
-    COPYRIGHT ? 2015 Hi Dog. ALL RIGHTS RESERVED. <br/>
-    杭州哈狗网络科技有限公司版权所有浙网文[2011]0483-070号 <a style="color:#f00" href="javascript:openaqzes()">安全责任书</a><br/>
-    公司地址：杭州文二西路1号元茂大厦1303 客服电话：0571-89714556 <br/>
+        COPYRIGHT ? 2017 zm. ALL RIGHTS RESERVED. <br/>
+        <!--公司的介绍-->
+        杭州哈狗网络科技有限公司版权所有浙网文[2015]0416-136号<a style="color:#f00" href="javascript:openaqzes()">安全责任书</a> <a style="color:#1993FF" href="./aboutus.html"  target="_blank">关于我们</a><br/>
+        公司地址：杭州文二西路1号元茂大厦1303 客服电话：0571-89714556 <br/>
     </div>
 </div>
 <SCRIPT>
-  function openaqzes() {
-      window.open('aqzrs.html'/*tpa=http://www.hidog.com/aqzrs.html*/, 'newwindow', 'height=600,width=800,top=0,left=0,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no, status=no');
-  }
+    function openaqzes() {
+        window.open('aqzrs.html', 'newwindow', 'height=600,width=800,top=0,left=0,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no, status=no');
+    }
 </SCRIPT>
 <script type="text/javascript">
     var www_jj_cn_index = {
@@ -336,8 +239,8 @@
         but_wm2_fn: function () {
             this.but_wm2(this.gat_id("but_wm2_and"), this.gat_id("wm2_and"));
             this.but_wm2(this.gat_id("but_wm2_iph"), this.gat_id("wm2_iph"));
-            this.but_wm2(this.gat_id("but_wm2_ipad"), this.gat_id("wm2_ipad"));
-            this.but_wm2(this.gat_id("but_wm2_tv"), this.gat_id("wm2_tv"));
+/*            this.but_wm2(this.gat_id("but_wm2_ipad"), this.gat_id("wm2_ipad"));
+            this.but_wm2(this.gat_id("but_wm2_tv"), this.gat_id("wm2_tv"));*/
         },
         setStyle3: function (obj, name, value) {
             var aCss3 = ['transform', 'transition', 'borderRadius', 'boxShadow', 'textShadow'];
@@ -371,13 +274,13 @@
             }
         }
     }
-    function www_jj_cn_index_lenbo() {
+    function lunbo_header() {
         this.obj = null;
         this.timerr = null;
         this.now = 0;
         this.index = 1;
     }
-    www_jj_cn_index_lenbo.prototype = {
+    lunbo_header.prototype = {
         init: function (nav, bjimg, jjnavhot) {
             var _this = this;
             this.outImgUl = document.getElementById(nav);
@@ -430,7 +333,7 @@
             this.imgChildren[this.now].className = "hov"
         }
     }
-    var index_lenbo = new www_jj_cn_index_lenbo();
+    var index_lenbo = new lunbo_header();
     index_lenbo.init("hot_img_nav", "jj_hot_img", "jj_nav_hot")
     www_jj_cn_index.but_wm2_fn();
     www_jj_cn_index.min_max_width();
@@ -443,24 +346,10 @@
     var _hmt = _hmt || [];
     (function () {
         var hm = document.createElement("script");
-        hm.src = "../hm.baidu.com/hm.js-42b4e6239bcfa35f8f12a3d820c6fb4b"/*tpa=https://hm.baidu.com/hm.js?42b4e6239bcfa35f8f12a3d820c6fb4b*/;
+        hm.src = "../hm.baidu.com/hm.js-42b4e6239bcfa35f8f12a3d820c6fb4b";
         var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
     })();
 </script>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!-- saved from url=(0015)http://m.jj.cn/ -->
+<html style="font-size: 100px;">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>比鸡下载页</title>
+	
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=0">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="x5-orientation" content="portrait">
+	<meta name="screen-orientation" content="portrait">
+	<script src="./websrc/js/hm.js"></script><script type="text/javascript" src="websrc/js/rem.js"></script>
+	<link rel="stylesheet" href="./websrc/css/pub_reset.css">
+	<link rel="stylesheet" media="screen" href="./websrc/css/index.css">
+	<script type="text/javascript">
+		function orient() {
+			var oL=document.createElement('link');
+			oL.type='./websrc/css/text/index.css';
+			oL.rel='stylesheet';
+			if (window.orientation == 0 || window.orientation == 180) {
+				orientation = 'portrait';
+				oL.href = './websrc/css/text/index.css';
+				var oHead = document.getElementsByTagName('head')[0];
+				oHead.appendChild(oL);
+				return false;
+			}else if (window.orientation == 90 || window.orientation == -90) {
+				oL.href = './websrc/css/text/index.css';
+				var oHead = document.getElementsByTagName('head')[0];
+				oHead.appendChild(oL);
+				return false;
+			}
+		}
+		orient();
+		window.addEventListener('orientationchange',orient,false);
+	</script>
+	<script type="text/javascript">
+	function is_weixin(){
+    	var ua = navigator.userAgent.toLowerCase();
+    	if(ua.match(/MicroMessenger/i)=="micromessenger") {
+        return true;
+     	} else {
+        return false;
+    	}
+	}
+	</script>
+</head>
+
+<body>
+<div class="w_wrap"></div>
+<div class="wrap_inner">
+	<div class="main">
+		<div class="part_1">
+			<a href="javascript:void(0)" class="logo_jj"></a>
+			<div class="lt_anim"></div>
+			<div class="rt_anim"></div>
+			<div class="fire_box">
+				<div class="anim_01"></div>
+				<div class="anim_02"></div>
+				<div class="anim_03"></div>
+			</div>
+		</div>
+		<div class="part_2">
+			<div class="lis lis_01">
+				<a href="javascript:void(0)" id="img_anim01" class="img_anim01">
+					<img src="websrc/images/pic_01.jpg" alt="">
+				</a>
+			</div>
+
+            <div class="txt txt_01 txt_anim01">
+				<img src="websrc/images/text_01.png" alt="">
+			</div>
+			<div class="lis lis_02">
+				<a href="javascript:void(0)" id="img_anim02" class="img_anim02">
+					<img src="websrc/images/pic_02.jpg" alt="">
+				</a>
+			</div>
+			<div class="txt txt_02 txt_anim02">
+				<!----><img src="websrc/images/text_02.png" alt="">
+			</div>
+			<div class="lis lis_03">
+				<a href="javascript:void(0)" id="img_anim03" class="img_anim03">
+					<img src="websrc/images/pic_03.jpg" alt="">
+				</a>
+			</div>
+			<div class="txt txt_03 txt_anim03">
+				<img src="websrc/images/text_03.png" alt="">
+			</div>
+		</div>
+	</div>
+	<footer>
+		<div class="in">
+			<p>Copyright&#169;2007-2017  竞技世界 版权所有</p>
+			<p>文网游备 [2014] M-CBG 007 号</p>
+			<div class="f_list">
+				<!--****************这里的东西后面都******************************-->
+				<a href=""><span>关于我们</span></a><i>|</i><a href="http://www.zhmgame.com?showtype=pc"><span>电脑版</span></a>
+				<!--*************************************************-->
+			</div>
+		</div>
+	</footer>
+	<div class="fixed_pos fixed_anim" id="fixed_anim">
+		<span class="im">
+			<img src="websrc/images/dz_icon.png" alt="">
+		</span>
+		<div class="cn">
+			<h2>
+				<img src="websrc/images/fixed_title.png" alt="">
+			</h2>
+			<!--<button type="button" class="dw_btn" id="download" data-num="weixin" ></button>-->
+			<a href="./phonedownload.html"class="dw_btn" id="download" ></a>
+			<!--<a href="http://fusion.qq.com/app_download?appid=1101055015&platform=qzone&via=QZ.MOBILEDETAIL.QRCODE&u=3046917960" 
+				class="dw_btn" id="download" download="app.apk"></a>-->
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="./websrc/js/event.js"></script>
+<script type="text/javascript" src="./websrc/js/touchend.js"></script>
+</body>
+</html>
